@@ -41,7 +41,7 @@ url                      : # the base hostname & protocol for your site e.g. "ht
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "jxnhwxn26/jxnhwxn26.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/profile.png"# path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Github BLOG"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -126,7 +126,7 @@ analytics:
 # Site Author
 author:
   name             : "junhwan"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an *amazing* person."
   location         : "KOREA"
   email            :
